@@ -106,3 +106,5 @@ dist
 # MAC Thumbs
 **/.DS_Store
 
+# VS Code Colors 
+.vscode 
